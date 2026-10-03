@@ -1,132 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nanosec&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%C2%B7%20C%23%20%C2%B7%20JavaScript%20%C2%B7%20Visual%20Studio&descSize=18&descAlignY=60" width="100%"/>
+<img src="./assets/header.svg" alt="Nanosec" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1400&color=00F0FF&center=true&vCenter=true&width=700&height=55&lines=Hey%2C+I'm+Nanosec;Performance-focused+developer;Building+Mazzi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=1600&color=8B93A7&center=true&vCenter=true&width=600&height=40&lines=Performance-focused+developer;Visual+Studio+expert;Building+Mazzi" alt="Typing SVG" />
 </a>
 
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=00f0ff&style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=7b2ff7&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=ffd700&labelColor=0d1117" />
+### ABOUT
+
+<sub>I build efficient, scalable software in **C++**, **C#** and **JavaScript**.<br>
+I care about performance, clean architecture, and how systems work under the hood.</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="60%"/>
-
-</div>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <br>
 
-<div align="center">
+### CURRENT PROJECT
 
-## About
-
-I build efficient, scalable software, with a focus on **C++**, **C#** and **JavaScript**.<br>
-I'm at home in **Visual Studio**, and I care about performance, clean architecture, and how systems work under the hood.
-
-<br>
-
-```cpp
-#include <iostream>
-int main() { std::cout << "Hello, I'm Nanosec\n"; }
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="60%"/>
-
-## Current Project
-
-<img src="https://img.shields.io/badge/MAZZI-In%20Development-7b2ff7?style=for-the-badge&labelColor=0d1117" />
+<img src="./assets/mazzi.svg" width="640" alt="Mazzi - in active development"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,js&perline=3" />
-
-</div>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <br>
 
-<div align="center">
+### STACK
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="60%"/>
-
-## Stack
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,python,nodejs,react,dotnet,visualstudio,vscode,cmake,git,github,docker,windows&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,dotnet,visualstudio,cmake,git,windows&perline=8&theme=dark" alt="Stack"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Visual%20Studio-Expert-5C2D91?style=flat-square&logo=visualstudio&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/C%23-Advanced-512BD4?style=flat-square&logo=csharp&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JavaScript-Experienced-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" />
+<sub>**Visual Studio** &nbsp;Expert &nbsp;·&nbsp; **C#** &nbsp;Advanced &nbsp;·&nbsp; **C++** &nbsp;Advanced &nbsp;·&nbsp; **JavaScript** &nbsp;Experienced</sub>
 
-</div>
+<br><br>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <br>
 
-<div align="center">
+### STATS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="60%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b93a7&icon_color=8b7bff&border_radius=14&include_all_commits=true&count_private=true" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b93a7&border_radius=14" alt="Top languages"/>
 
-## Focus
+<br><br>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&border_radius=14&ring=8b7bff&fire=8b7bff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=8b93a7&dates=8b93a7" alt="Streak"/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br><br>
 
-**Engineering**
-- C++ & C# development
-- Visual Studio expertise
-- Data structures & algorithms
-- Performance optimization
-- Software architecture
-
-</td>
-<td width="50%" valign="top">
-
-**Systems & Web**
-- Modern JavaScript
-- Frontend applications
-- API integration
-- Windows development
-- Authentication & security concepts
-
-</td>
-</tr>
-</table>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="60%"/>
-
-## Stats
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10"/>
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Nanosec-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=8b7bff&style=flat-square&labelColor=0d1117" alt="Views"/>
 
 </div>
