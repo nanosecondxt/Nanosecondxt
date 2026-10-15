@@ -1,22 +1,28 @@
 <!--
-  GitHub profile README — repo must be named exactly: nanosecondxt
+  Profile README — repository name must be: nanosecondxt
 -->
 
 <div align="center">
 
-# hey, I'm nanosec
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=hey%2C+I'm+nanosec;C%2B%2B+%C2%B7+C%23+%C2%B7+systems+%26+tooling" alt="Typing header" />
 
-**C++ · C# · systems & tooling**
+<br/>
 
-Independent developer building native performance software and practical .NET tools.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Independent+developer+%E2%80%94+native+%26+.NET;Building+tools+that+actually+ship" alt="Typing subtitle" />
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-nanosecondxt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanosecondxt)
 [![Discord](https://img.shields.io/badge/Discord-heavyln-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/heavyln)
-[![Languages](https://img.shields.io/badge/C%2B%2B%20%7C%20C%23-focus-0ea5e9?style=for-the-badge)](https://github.com/nanosecondxt)
+[![Focus](https://img.shields.io/badge/Focus-C%2B%2B%20%7C%20C%23-0ea5e9?style=for-the-badge)](https://github.com/nanosecondxt)
 
 </div>
 
 ---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=280&height=28&lines=%24+whoami;nanosec;%24+langs;C%2B%2B+%C2%B7+C%23" alt="Terminal typing" />
+</div>
 
 ### About
 
@@ -30,7 +36,7 @@ I care about shipping real tools — not just samples.
 
 ---
 
-### Tech
+### Tech stack
 
 <div align="center">
 
@@ -45,24 +51,29 @@ I care about shipping real tools — not just samples.
 
 </div>
 
+<br/>
+
 | Area | Details |
-|------|---------|
-| **Native** | C++, C, Win32 / modern C++ toolchains |
-| **Managed** | C#, .NET, desktop & utility apps |
+|:-----|:--------|
+| **Native** | Modern C++, C, Win32, performance tooling |
+| **Managed** | C#, .NET, desktop apps & utilities |
 | **Tooling** | CMake, MSVC, Git, build pipelines |
-| **Style** | Clean structure, measurable performance |
+| **Approach** | Clean structure · measurable results · ship |
 
 ---
 
-### GitHub stats
+### Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nanosecondxt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanosecondxt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nanosecondxt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub stats" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanosecondxt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanosecondxt&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanosecondxt&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
 </div>
 
 ---
@@ -70,20 +81,16 @@ I care about shipping real tools — not just samples.
 ### Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanosecondxt&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanosecondxt&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff" alt="Contribution graph" width="100%" />
 </div>
 
 ---
 
-### Focus right now
+### Now
 
-```text
-┌─────────────────────────────────────────┐
-│  C++     systems · performance · tools  │
-│  C#      apps · utilities · .NET        │
-│  ship    small products, end-to-end     │
-└─────────────────────────────────────────┘
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&lines=Building+in+C%2B%2B+%26+C%23;Shipping+small+products+end-to-end;Open+to+interesting+systems+work" alt="Now typing" />
+</div>
 
 ---
 
@@ -91,23 +98,21 @@ I care about shipping real tools — not just samples.
 
 <div align="center">
 
-| | |
-|:--|:--|
+| Platform | Link |
+|:--------:|:-----|
 | **GitHub** | [github.com/nanosecondxt](https://github.com/nanosecondxt) |
 | **Discord** | [discord.gg/heavyln](https://discord.gg/heavyln) |
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nanosecondxt&style=for-the-badge&color=58a6ff" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=nanosecondxt&style=for-the-badge&color=58a6ff&label=Profile+views" alt="Profile views" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=3FB950&center=true&vCenter=true&width=360&height=25&lines=thanks+for+stopping+by+%E2%9C%A8" alt="Thanks typing" />
 
-<div align="center">
+<br/>
 
-**thanks for stopping by**
-
-*built with C++ & C# — nanosec*
+**nanosec** · *C++ & C#*
 
 </div>
