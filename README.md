@@ -1,65 +1,113 @@
+<!--
+  GitHub profile README — repo must be named exactly: nanosecondxt
+-->
+
 <div align="center">
 
-<img src="./assets/header.svg" alt="Nanosec" width="100%"/>
+# hey, I'm nanosec
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=1600&color=8B93A7&center=true&vCenter=true&width=600&height=40&lines=Performance-focused+developer;Visual+Studio+expert;Building+Mazzi" alt="Typing SVG" />
-</a>
+**C++ · C# · systems & tooling**
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+Independent developer building native performance software and practical .NET tools.
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-nanosecondxt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanosecondxt)
+[![Discord](https://img.shields.io/badge/Discord-heavyln-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/heavyln)
+[![Languages](https://img.shields.io/badge/C%2B%2B%20%7C%20C%23-focus-0ea5e9?style=for-the-badge)](https://github.com/nanosecondxt)
 
-### ABOUT
+</div>
 
-<sub>I build efficient, scalable software in **C++**, **C#** and **JavaScript**.<br>
-I care about performance, clean architecture, and how systems work under the hood.</sub>
+---
 
-<br><br>
+### About
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+I write **C++** when it has to be fast and close to the metal, and **C#** when productivity and clean architecture matter.  
+I care about shipping real tools — not just samples.
 
-<br>
+- Systems programming & desktop software  
+- Performance-sensitive native code  
+- Practical .NET / tooling utilities  
+- End-to-end product work (including [heavyln](https://discord.gg/heavyln))
 
-### CURRENT PROJECT
+---
 
-<img src="./assets/mazzi.svg" width="640" alt="Mazzi - in active development"/>
+### Tech
 
-<br><br>
+<div align="center">
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
+</div>
 
-### STACK
+| Area | Details |
+|------|---------|
+| **Native** | C++, C, Win32 / modern C++ toolchains |
+| **Managed** | C#, .NET, desktop & utility apps |
+| **Tooling** | CMake, MSVC, Git, build pipelines |
+| **Style** | Clean structure, measurable performance |
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,dotnet,visualstudio,cmake,git,windows&perline=8&theme=dark" alt="Stack"/>
+---
 
-<br><br>
+### GitHub stats
 
-<sub>**Visual Studio** &nbsp;Expert &nbsp;·&nbsp; **C#** &nbsp;Advanced &nbsp;·&nbsp; **C++** &nbsp;Advanced &nbsp;·&nbsp; **JavaScript** &nbsp;Experienced</sub>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nanosecondxt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanosecondxt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+</div>
 
-<br><br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanosecondxt&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+</div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+---
 
-<br>
+### Activity
 
-### STATS
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanosecondxt&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b93a7&icon_color=8b7bff&border_radius=14&include_all_commits=true&count_private=true" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b93a7&border_radius=14" alt="Top languages"/>
+---
 
-<br><br>
+### Focus right now
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&border_radius=14&ring=8b7bff&fire=8b7bff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=8b93a7&dates=8b93a7" alt="Streak"/>
+```text
+┌─────────────────────────────────────────┐
+│  C++     systems · performance · tools  │
+│  C#      apps · utilities · .NET        │
+│  ship    small products, end-to-end     │
+└─────────────────────────────────────────┘
+```
 
-<br><br>
+---
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+### Connect
 
-<br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=8b7bff&style=flat-square&labelColor=0d1117" alt="Views"/>
+| | |
+|:--|:--|
+| **GitHub** | [github.com/nanosecondxt](https://github.com/nanosecondxt) |
+| **Discord** | [discord.gg/heavyln](https://discord.gg/heavyln) |
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nanosecondxt&style=for-the-badge&color=58a6ff" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+
+**thanks for stopping by**
+
+*built with C++ & C# — nanosec*
 
 </div>
